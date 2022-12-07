@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama id="node1" appversion="6.1.15" apprev="18116">
+  <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" width="3459" height="3459" levelingpitch="0" levelbias="0.400" levelbiashidpi="1.000" overlap="1" levelingroll="0">
+    <level width="3459" height="3459" preload="0" predecode="0"/>
+    <level width="1729" height="1729" preload="0" predecode="0"/>
+    <level width="864" height="864" preload="0" predecode="0"/>
+    <level width="432" height="432" preload="1" predecode="1"/>
+    <preview strip="1" color="0x808080"/>
+  </input>
+  <view pannorth="244" fovmode="0">
+    <start pan="-4.29131" projection="4" tilt="-5.32656" fov="70"/>
+    <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+    <min pan="0" fovpixel="2" tilt="-90"/>
+    <max fovstereographic="270" pan="360" fovfisheye="360" tilt="90" scaletofit="1" fov="120"/>
+  </view>
+  <userdata comment="" tags="Images" customnodeid="" info="" description="" heading="244" longitude="-111.69521391" title="" latitude="40.23823191" copyright="" nodeid="node1" author="" source="" datetime="2/6/21 8:26 AM"/>
+  <hotspots width="180" height="20" wordwrap="1">
+    <label borderradius="1" borderalpha="1" width="180" height="20" backgroundalpha="1" wordwrap="1" enabled="1" background="1" textcolor="0x000000" textalpha="1" bordercolor="0x000000" backgroundcolor="0xffffff" border="1"/>
+    <polystyle handcursor="1" borderalpha="1" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
+    <hotspot pan="-17.08" id="Point01" target="" description="" skinid="ht_image" title="Info" tilt="-7.58" url="images/trailhead.png"/>
+  </hotspots>
+  <media/>
+  <transition softedge="0" zoomafterinfov="90" zoomin="0" zoomafteroutfov="20" blendtime="1" zoomoutpause="1" enabled="1" zoomout="0" type="crossdissolve" zoomfov="20" zoomspeed="2" blendcolor="0x000000"/>
+  <flyintransition enabled="1" speed="2.00"/>
+  <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+  <control speedwheel="1" lockedmouse="0" lockedkeyboardzoom="0" contextvr="1" rubberband="0" contextfullscreen="1" dblclickfullscreen="0" sensitivity="8" lockedkeyboard="0" invertcontrol="1" simulatemass="1" lockedwheel="0" contextprojections="0" invertwheel="0"/>
+</panorama>
